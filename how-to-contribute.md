@@ -11,4 +11,4 @@
 Describe the problem and the strategy in short sentences and with simple words. To keep it reasonably short, this list contains only the strategies, no additional resources.
 
 # How to write it
-This list is written in [Markdown](https://www.markdownguide.org/basic-syntax/).
+This list is written in Markdown. Here's an explanation of [Markdown's syntax](https://www.markdownguide.org/basic-syntax/).
