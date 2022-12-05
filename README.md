@@ -5,31 +5,31 @@ The idea of this list is for autistic people to get inspiration on how to make t
 
 Autistic People are not all alike. You are unique - that's why not all of these strategies will apply to you. This is for inspiration - feel free to adapt every strategy until it suits you.
 
-This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard), but open for anyone to [contribute](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#how-to-contribute). You can discuss the contents of this list with me and others in a thread on reddit [TODO: Add Link]().
+This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard), but open for anyone to [contribute](https://wishful-lizzard.github.io/coping-strategies/how-to-contribute.html). You can discuss the contents of this list with me and others in a thread on reddit [TODO: Add Link]().
+
+If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to. [Here's how](https://wishful-lizzard.github.io/coping-strategies/how-to-contribute.html).
 
 # Table of Contents
 [General Notes on Coping Strategies](#general-notes-on-coping-strategies)
 
-[External Problems - Eliminating, Reducing or Avoiding Them](https://github.com/wishful-lizzard/coping-strategies#external-problems---eliminating-reducing-or-avoiding-them)
+[External Problems - Eliminating, Reducing or Avoiding Them](#external-problems---eliminating-reducing-or-avoiding-them)
 * [Social Interactions](#social-interactions)
-* [Nonverbal Communication](https://github.com/wishful-lizzard/coping-strategies#nonverbal-communication)
-* [Relationships & Friendships](https://github.com/wishful-lizzard/coping-strategies#relationships--friendships)
-* [Food & Diet](https://github.com/wishful-lizzard/coping-strategies#food--diet)
-* [Clothes](https://github.com/wishful-lizzard/coping-strategies#clothes)
-* [Work](https://github.com/wishful-lizzard/coping-strategies#work)
-* [School / University](https://github.com/wishful-lizzard/coping-strategies#school-university)
-* [Sports](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#sports)
-* [Sleep](https://github.com/wishful-lizzard/coping-strategies#sleep)
-* [Recharging your Batteries](https://github.com/wishful-lizzard/coping-strategies#recharging-your-batteries)
-* [Sensory Stimuli](https://github.com/wishful-lizzard/coping-strategies#sensory-stimuli)
+* [Nonverbal Communication](#nonverbal-communication)
+* [Relationships & Friendships](#relationships--friendships)
+* [Food & Diet](#food--diet)
+* [Clothes](#clothes)
+* [Work](#work)
+* [School / University](#school-university)
+* [Sports](#sports)
+* [Sleep](#sleep)
+* [Recharging your Batteries](#recharging-your-batteries)
+* [Sensory Stimuli](#sensory-stimuli)
 
-[Internal Emotions - Dealing with How You React to Problems](https://github.com/wishful-lizzard/coping-strategies#internal-emotions---dealing-with-how-you-react-to-problems)
+[Internal Emotions - Dealing with How You React to Problems](#internal-emotions---dealing-with-how-you-react-to-problems)
 (TODO: fill in contents)
 
-[Behavior - Adapting your Behavior to Fit In More - or Less!](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#behavior---adapting-your-behavior-to-fit-in-more---or-less)
+[Behavior - Adapting your Behavior to Fit In More - or Less!](#behavior---adapting-your-behavior-to-fit-in-more---or-less)
 (TODO: fill in contents)
-
-[How to Contribute](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#how-to-contribute)
 
 # General Notes on Coping Strategies
 Coping is the act of dealing with problems or stressors. A coping strategy either deals with the external problem by removing or avoiding it, or it deals with your internal emotional reaction to that problem. Coping strategies are sometimes called coping mechanisms. The former implies deliberately employed actions, the latter may be a more unconcious reaction of your body and mind.
@@ -85,11 +85,11 @@ Be kind to yourself.
 ## Recharging your Batteries
 
 ## Sensory Stimuli
-* [Sight](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#sight)
-* [Touch](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#touch)
-* [Taste](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#taste)
-* [Hearing](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#hearing)
-* [Pain](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#pain)
+* [Sight](#sight)
+* [Touch](#touch)
+* [Taste](#taste)
+* [Hearing](#hearing)
+* [Pain](#pain)
 
 ### Sight
 
@@ -140,6 +140,3 @@ Be kind to yourself.
 ## Transitions
 
 ## Hyperfixation / Special Interests
-
-## How to Contribute
-If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to. [Here's how](https://github.com/wishful-lizzard/coping-strategies/blob/main/how-to-contribute.md).
