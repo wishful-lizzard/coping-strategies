@@ -11,7 +11,7 @@ This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard)
 [General Notes on Coping Strategies](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-1)
 
 [External Problems - Eliminating, Reducing or Avoiding Them](https://github.com/wishful-lizzard/coping-strategies#external-problems---eliminating-reducing-or-avoiding-them)
-* [Social Interactions](https://github.com/wishful-lizzard/coping-strategies#social-interactions)
+* [Social Interactions](#social-interactions)
 * [Nonverbal Communication](https://github.com/wishful-lizzard/coping-strategies#nonverbal-communication)
 * [Relationships & Friendships](https://github.com/wishful-lizzard/coping-strategies#relationships--friendships)
 * [Food & Diet](https://github.com/wishful-lizzard/coping-strategies#food--diet)
