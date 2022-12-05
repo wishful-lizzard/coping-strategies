@@ -24,7 +24,7 @@ One coping strategy would be to just **avoid all noisy situations altogether**. 
 
 Strategies that try to **reduce the impact of the external problem** include noise reduction headphones or earplugs. Strategies dealing with external problems are usually specific to the problem.
 
-Strategies that deal with internal emotional reactions are usually less specific to the problem. An example would be trying to reduce the stress you experience by using a breathing technique.
+Strategies that deal with internal emotional reactions are usually less specific to the problem. An example would be trying to reduce the stress you experience by using a breathing technique. Strategies dealing with your internal emotions are usually more generic.
 
 ## Coping is not a One-Time Thing
 Coping is a process rather than an event. You may alternate between several coping strategies depending on the situation, your daily form or your preference. A coping strategy might help one day, but not on another. You might know a coping strategy, but not be able to put it into action. Especially dealing with our emotional reactions takes time and practice. 
@@ -34,4 +34,5 @@ Be kind to yourself.
 # Section 2
 
 ## How to Contribute
-If you feel like you could add a strategy to this list, then you can!. (TODO: Short explanation for Pull Requests, link to a GitHub Intro)
+If you feel like you could add a strategy to this list, then you can! Create a new branch, edit this list to include your strategy, and start a pull request.
+(TODO: Short explanation for Pull Requests, link to a GitHub Intro)
