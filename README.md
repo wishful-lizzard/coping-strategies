@@ -24,6 +24,10 @@ This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard)
 * [Sensory Stimuli](https://github.com/wishful-lizzard/coping-strategies#sensory-stimuli)
 
 [Internal Emotions - Dealing with How You React to Problems](https://github.com/wishful-lizzard/coping-strategies#internal-emotions---dealing-with-how-you-react-to-problems)
+(TODO: fill in contents)
+
+[Behavior - Adapting your Behavior to Fit In More - or Less!](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#behavior---adapting-your-behavior-to-fit-in-more---or-less)
+(TODO: fill in contents)
 
 [How to Contribute](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#how-to-contribute)
 
@@ -104,8 +108,6 @@ Problem: Overstimulations through loud environment (e.g. construction works, noi
 * Wear in-ear noise-reduction earplugs (available for construction workers, musicians or festivals)
 
 ### Pain
-
-### 
 
 # Internal Emotions - Dealing with How You React to Problems
 
