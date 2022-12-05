@@ -142,4 +142,4 @@ Be kind to yourself.
 ## Hyperfixation / Special Interests
 
 ## How to Contribute
-If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to.
+If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to. [Here's how](https://github.com/wishful-lizzard/coping-strategies/blob/main/how-to-contribute.md).
