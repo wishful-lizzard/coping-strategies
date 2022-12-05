@@ -7,8 +7,9 @@ Autistic People are not all alike. That's why not all of these strategies will a
 This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard), but open for anyone to [contribute]().
 
 # Table of Contents
-[Section 1]()
-[Section 2]()
+[Section 1](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-1)
+
+[Section 2](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-2)
 
 # Section 1
 
