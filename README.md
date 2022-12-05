@@ -1,5 +1,5 @@
 # Autism Coping Strategies
-A exhaustive but concise list of coping strategies for autistic people.
+An exhaustive but concise list of coping strategies for autistic people.
 
 The idea of this list is for autistic people to get inspiration on how to make their lives easier. It's kind of a best-of of reddit and other forums as well as self-help books. The idea is to very briefly describe a problem and a strategy, then link to pages, articles or forum threads with more information.
 
