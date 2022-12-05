@@ -18,6 +18,10 @@ This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard)
 * [Clothes](https://github.com/wishful-lizzard/coping-strategies#clothes)
 * [Work](https://github.com/wishful-lizzard/coping-strategies#work)
 * [School / University](https://github.com/wishful-lizzard/coping-strategies#school-university)
+* [Sports](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#sports)
+* [Sleep](https://github.com/wishful-lizzard/coping-strategies#sleep)
+* [Recharging your Batteries](https://github.com/wishful-lizzard/coping-strategies#recharging-your-batteries)
+* [Sensory Stimuli](https://github.com/wishful-lizzard/coping-strategies#sensory-stimuli)
 
 [Internal Emotions - Dealing with How You React to Problems](https://github.com/wishful-lizzard/coping-strategies#internal-emotions---dealing-with-how-you-react-to-problems)
 
@@ -72,7 +76,7 @@ Be kind to yourself.
 
 ## School / University
 
-## Sport
+## Sports
 
 ## Sleep
 
