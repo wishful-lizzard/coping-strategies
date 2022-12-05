@@ -10,7 +10,16 @@ This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard)
 # Table of Contents
 [General Notes on Coping Strategies](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-1)
 
-[Section 2](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-2)
+[External Problems - Eliminating, Reducing or Avoiding Them](https://github.com/wishful-lizzard/coping-strategies#external-problems---eliminating-reducing-or-avoiding-them)
+* [Social Interactions](https://github.com/wishful-lizzard/coping-strategies#social-interactions)
+* [Nonverbal Communication](https://github.com/wishful-lizzard/coping-strategies#nonverbal-communication)
+* [Relationships & Friendships](https://github.com/wishful-lizzard/coping-strategies#relationships--friendships)
+* [Food & Diet](https://github.com/wishful-lizzard/coping-strategies#food--diet)
+* [Clothes](https://github.com/wishful-lizzard/coping-strategies#clothes)
+* [Work](https://github.com/wishful-lizzard/coping-strategies#work)
+* [School / University](https://github.com/wishful-lizzard/coping-strategies#school-university)
+
+[Internal Emotions - Dealing with How You React to Problems](https://github.com/wishful-lizzard/coping-strategies#internal-emotions---dealing-with-how-you-react-to-problems)
 
 [How to Contribute](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#how-to-contribute)
 
@@ -60,6 +69,8 @@ Be kind to yourself.
 ## Clothes
 
 ## Work
+
+## School / University
 
 ## Sport
 
@@ -125,5 +136,17 @@ Problem: Overstimulations through loud environment (e.g. construction works, noi
 ## Hyperfixation / Special Interests
 
 ## How to Contribute
-If you feel like you could add a strategy to this list, then you can! Create a new branch, edit this list to include your strategy, and start a pull request.
+If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to.
+
+### How to get Your Entry into This List
+* Have a GitHub account
+* Create a new branch
+* Edit this list to include your strategy
+* Start a pull request
 (TODO: Short explanation for Pull Requests, link to a GitHub Intro)
+
+### What to write
+Describe the problem and the strategy in short sentences and with simple words. To keep it reasonably short, this list contains only the strategies, no additional resources.
+
+### How to write it
+This list is written in [Markdown](https://www.markdownguide.org/basic-syntax/).
