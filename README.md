@@ -67,7 +67,12 @@ Be kind to yourself.
 
 ## Recharging your Batteries
 
-## Sensory Stimuly
+## Sensory Stimuli
+[Sight]()
+[Touch]()
+[Taste]()
+[Hearing]()
+[Pain]()
 
 ### Sight
 
@@ -78,8 +83,8 @@ Be kind to yourself.
 ### Hearing
 Dealing with under- or overstimulation related to noise, sounds or music.
 
-Problem: Loud environments cause stress (e.g. construction works, noisy children, loud co-workers)
-* Wear headphones to replace with a less stressfull sound (favorite music, relaxing soundscapes)
+Problem: Overstimulations through loud environment (e.g. construction works, noisy children)
+* Wear headphones to replace with a less stressfull sound (music, relaxing soundscapes)
 * Wear noise-cancelling headphones
 * Wear in-ear noise-reduction earplugs (available for construction workers, musicians or festivals)
 
