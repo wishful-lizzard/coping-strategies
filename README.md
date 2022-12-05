@@ -68,11 +68,11 @@ Be kind to yourself.
 ## Recharging your Batteries
 
 ## Sensory Stimuli
-[Sight]()
-[Touch]()
-[Taste]()
-[Hearing]()
-[Pain]()
+* [Sight](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#sight)
+* [Touch](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#touch)
+* [Taste](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#taste)
+* [Hearing](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#hearing)
+* [Pain](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#pain)
 
 ### Sight
 
