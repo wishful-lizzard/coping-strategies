@@ -55,13 +55,17 @@ Be kind to yourself.
 
 ### Maintaining Relationships
 
-## Food
+## Food & Diet
 
 ## Clothes
 
 ## Work
 
+## Sport
+
 ## Sleep
+
+## Recharging your Batteries
 
 ## Sensory Stimuly
 
@@ -72,12 +76,28 @@ Be kind to yourself.
 ### Taste
 
 ### Hearing
+Dealing with under- or overstimulation related to noise, sounds or music.
+
+Problem: Loud environments cause stress (e.g. construction works, noisy children, loud co-workers)
+* Wear headphones to replace with a less stressfull sound (favorite music, relaxing soundscapes)
+* Wear noise-cancelling headphones
+* Wear in-ear noise-reduction earplugs (available for construction workers, musicians or festivals)
 
 ### Pain
 
 ### 
 
 # Internal Emotions - Dealing with How You React to Problems
+
+## Expressing Distressing Emotions
+
+## Maintaining Emotional Composure
+
+## Changing your Expectations
+
+## Changing your Beliefs
+
+## Distancing yourself from Stress
 
 # Behavior - Adapting your Behavior to Fit In More - or Less!
 
