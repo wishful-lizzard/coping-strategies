@@ -100,12 +100,13 @@ Be kind to yourself.
 ### Taste
 
 ### Hearing
-Dealing with under- or overstimulation related to noise, sounds or music.
-
-Problem: Overstimulations through loud environment (e.g. construction works, noisy children)
+Problem: Overstimulation caused by a loud environment (e.g. construction works, noisy children)
 * Wear headphones to replace with a less stressfull sound (music, relaxing soundscapes)
 * Wear noise-cancelling headphones
 * Wear in-ear noise-reduction earplugs (available for construction workers, musicians or festivals)
+
+Problem: Understimulation caused by a quiet environment
+* Have White Noise running in the background
 
 ### Pain
 
