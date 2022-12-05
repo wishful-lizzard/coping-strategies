@@ -143,16 +143,3 @@ Be kind to yourself.
 
 ## How to Contribute
 If you feel like you could add a strategy to this list, then you can! In fact, you are more than welcome to.
-
-### How to get Your Entry into This List
-* Have a GitHub account
-* Create a new branch
-* Edit this list to include your strategy
-* Start a pull request
-(TODO: Short explanation for Pull Requests, link to a GitHub Intro)
-
-### What to write
-Describe the problem and the strategy in short sentences and with simple words. To keep it reasonably short, this list contains only the strategies, no additional resources.
-
-### How to write it
-This list is written in [Markdown](https://www.markdownguide.org/basic-syntax/).
