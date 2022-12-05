@@ -8,7 +8,7 @@ Autistic People are not all alike. You are unique - that's why not all of these 
 This list is maintained by [wishful-lizzard](https://github.com/wishful-lizzard), but open for anyone to [contribute](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#how-to-contribute). You can discuss the contents of this list with me and others in a thread on reddit [TODO: Add Link]().
 
 # Table of Contents
-[General Notes on Coping Strategies](https://github.com/wishful-lizzard/coping-strategies/blob/main/README.md#section-1)
+[General Notes on Coping Strategies](#general-notes-on-coping-strategies)
 
 [External Problems - Eliminating, Reducing or Avoiding Them](https://github.com/wishful-lizzard/coping-strategies#external-problems---eliminating-reducing-or-avoiding-them)
 * [Social Interactions](#social-interactions)
