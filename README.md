@@ -31,7 +31,73 @@ Coping is a process rather than an event. You may alternate between several copi
 
 Be kind to yourself.
 
-# Section 2
+# External Problems - Eliminating, Reducing or Avoiding Them
+
+## Social Interactions
+
+### Approaches 
+
+### Conversations
+
+### Sharing Emotions
+
+## Nonverbal Communication
+
+### Understanding Nonverbal Communication
+
+### Body Language and Gestures
+
+### Eye Contact  
+
+## Relationships & Friendships
+
+### Finding your People
+
+### Maintaining Relationships
+
+## Food
+
+## Clothes
+
+## Work
+
+## Sleep
+
+## Sensory Stimuly
+
+### Sight
+
+### Touch
+
+### Taste
+
+### Hearing
+
+### Pain
+
+### 
+
+# Internal Emotions - Dealing with How You React to Problems
+
+# Behavior - Adapting your Behavior to Fit In More - or Less!
+
+## Masking and Unmasking
+
+## Stimming
+
+## Fine Motor Movements
+
+## Gross Motor Movements
+
+## Objects
+
+## Speech
+
+## Routines
+
+## Transitions
+
+## Hyperfixation / Special Interests
 
 ## How to Contribute
 If you feel like you could add a strategy to this list, then you can! Create a new branch, edit this list to include your strategy, and start a pull request.
